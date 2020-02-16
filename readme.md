@@ -8,7 +8,7 @@ creativo is a one page bootsrap template .
  ceativo is a One Page modern and responsive bootstrap template design for web agencies, it can be used in many other business, and as web hosting ,as well as portfolio
 if you need to start your inline company ,creativo is your best choice because its a , creativo supports many plugins and new Technologis, CSS3 And HTML5.
 
- ![](screen.jpg)
+ ![](https://github.com/gaassis/Free-creative-template-bootstrap-4-RTL/blob/master/fullScreen.png)
 
 
     Bootstrap 4 support
