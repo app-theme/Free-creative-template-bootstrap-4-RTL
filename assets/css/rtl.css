@@ -1,0 +1,7 @@
+
+.mainMenu{margin-left:0px !important;margin-right:auto !important}
+body{direction:rtl;unicode-bidi: bidi-override;}
+.socialNav{float:left}
+.blog-content ul{padding-right:0px;}
+.p-about,.title-about, .copyRight p , .footerContentP h5,.footerContentP p , .blog-footer a , .blog-content, .contactTop {text-align:right}
+		

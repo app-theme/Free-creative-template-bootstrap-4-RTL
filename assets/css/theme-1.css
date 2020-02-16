@@ -1,0 +1,62 @@
+
+	.first-color{color:#ff007a;}
+	.bg-first-color , .mainInfo{background-color:#ff007a;}
+	.btn-readmore:hover{color:white !important;background:#ff007a !important;}
+	.btn-getstarted:hover{color:#ff007a !important;background:white !important;}
+	.btn-readmore{background:white !important;color:#ff007a;}
+	.btn-getstarted{color:white;background:#ff007a;}
+	.home-content h1 span {color:#ff007a;}
+	.icon-about{background: #ff007ac2;}
+	.list-about li:hover .icon-about{color: #ff007ac2;border:1px solid #ff007ac2;}
+	.feature-content{border:1px solid #c0c0c045;box-shadow:inset 0em 0em #ff007a, 0px 0px 10px #c0c0c033;;border-radius: 5px;;padding:20px;transition:all 900ms ease-in;}
+	.feature-content span{color:#ff007a;}
+	.feature-content:hover{box-shadow:inset 50em 0em #ff007a;}
+	.content-pricing{border:1px solid #ff007a}
+	.content-pricing h5{color:rgba(0,0,0,0.5);}
+	.content-pricing span{color:#ff007a;}
+	.list-pricing li span{color:rgba(0,0,0,0.5); font-size:1rem;}
+	.content-pricing h1{font-size:35px !important;font-family:lato;color:rgba(0,0,0,0.5)}
+	.content-pricing a{fbackground:#ff007a;}
+	.content-work div{background:rgba(0,0,0,0.5);}
+	.content-work div a{display:block;color:rgba(255,255,255,0.8);}	
+
+	.content-team{box-shadow: 5px 5px 10px #0000001a;}
+	.content-team div h4{color:#ff007a;}
+	.content-team div p{color:#00000080;}	
+	.social-team{background:#ffffff75 !important;}
+	.social-team ul li .icofont-facebook{color:#3b5998}
+	.social-team ul li .icofont-instagram{color:#bc2a8d}
+	.social-team ul li .icofont-twitter{color:#00aced}
+	.social-team ul li .icofont-pinterest{color:#cb2027}
+	.mainTitle::after{content: "";position: absolute;bottom: -10px;left: 0;right: 0;border-top: 3px solid #ff007a;z-index: -1;margin: 0 auto;width: 60px;}
+	.blog{position:relative;box-shadow : 0px 0px 5px #c0c0c066;overflow:hidden;}
+	.blog .blog-img{overflow:hidden;}
+	.blog .blog-img  img{height:200px;width:100%;transition:all 400ms linear;}
+	.blog:hover .blog-img  img{transform:scale(1.05,1.05);}
+	.blog-content{padding:10px;}
+	.blog-content .blog-meta{list-style:none;padding-left:0px;}
+	.blog-meta li span{color:#ff007a;}
+	.blog-footer{border-top:1px solid #c0c0c066;display:flex;padding:10px;align-items:center;color:#ff3d99;}
+	.blog-footer a {color:#ff3d99;}
+	.blog-footer a{flex:60%;}
+	.blog-footer i{background: #ff007ac2;padding: 10px;border-radius: 50%;color: white;}
+	.mainMenu li a{margin-right:10px;text-transform:capitalize;position:relative;font-size:18px;margin-left:10px}
+	.mainMenu li a:after{content:"";position:absolute;transition:all 400ms ease;left:0px;right:0px;border-top:2px solid white;margin:0 auto;width:0px;bottom:-1px;}
+	.center-content-pricing, .content-pricing{transition:border-radius 300ms linear,transform 300ms linear;}
+	.center-content-pricing:hover , .content-pricing:hover{border-radius:30px;transform:scale(1.05,1.05);}
+	.center-content-pricing{background-color:#ff007a;height:100%;border-radius:5px;border:1px solid #ff007a;}
+	.center-content-pricing h5{color:white;padding-top:15px;font-weight:bold;}
+	.center-content-pricing span{font-size:70px;color:white;}
+	.center-content-pricing ul{list-style:none;padding:10px 20px;}
+	.center-content-pricing ul li{padding:10px 0px;}
+	.center-list-pricing li span{color:rgba(255,255,255,0.95); font-size:1rem;}
+	.center-content-pricing h1{font-size:35px !important;font-family:lato;color:white;}
+	.center-content-pricing a{border-radius:0px;margin-top:20px;border:0px;padding:8px 60px;border:1px solid #ff007a ;font-size:14px;font-weight:400;background:white;color:#ff007a;}
+	.footerContentWorld span{color: white;position: absolute;top: 30px;z-index: 100;left: 20px;font-size: 60px;}
+	.footerContentP p{color:rgba(255,255,255,0.8);padding-top:10px;line-height:1.8}
+	.footerContentP ul li{color:rgba(255,255,255,0.8);margin-right:10px}
+	.socialNav li a {color:#ffffffe6;}
+	.contactTop, .copyRight{padding:10px 0px 0px 0px;color:#ffffffe6}
+	.lastGrid{background:#e70a74 !important;}
+	.footerSection{background:#ff007a;}
+	#team{background: #e6e6e624;}
