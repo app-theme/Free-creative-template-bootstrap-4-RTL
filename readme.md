@@ -60,7 +60,7 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 ## thank's
-thank you for download and using Ours Templates  more informations please visit the web site http://www.premade.site or contact us Email support@premade.site
-merci d'avoir télécharger et utliser nos templates pour plus d'informations visiter notre site web http//www.premade.site ou contactez nous support@premade.site
+thank you for download and using Ours Templates  more informations please visit the web site http://www.app-theme.com or contact us Email support@premade.site
+merci d'avoir télécharger et utliser nos templates pour plus d'informations visiter notre site web http//www.app-theme.com ou contactez nous gaa2008@live.fr
 شكرا على تحميل وإستعمال قوالبنا لمزيد من المعلومات يرجي زيارة الموقع 
-http://www.premade.site
+http://www.app-theme.com
